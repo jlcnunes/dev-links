@@ -12,13 +12,13 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="./assets/project-preview.pngpreview.png">
+  <img alt="Imagem com um preview do layout pra mobile, sendo apresentado no modo light, com fundo claro e mostrado Mayke Brito vestido de camisa preta, com óculos escuro e fundo degradê roxo e azul. Também é mostrado o layout para desktop, no modo dark, com Maybe Brito sem óculos e vestido de jaqueta preta" src="./assets/project-preview.png">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt=" Imagens com detalhes ténicos do desingn do projeto DevLinks, como o backgroud, botão deslisante, perfil e avatares" src="./assets/project-style-guide.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
