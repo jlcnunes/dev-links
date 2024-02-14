@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt=" Imagens com detalhes ténicos do desingn do projeto DevLinks, como o backgroud, botão deslisante, perfil e avatares" src="./assets/project-style-guide.png" width="100%">
+  <img alt="Imagens com detalhes ténicos do desingn do projeto DevLinks, como o backgroud, botão deslisante, perfil e avatares" src="./assets/project-style-guide.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
